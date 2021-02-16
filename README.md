@@ -9,10 +9,12 @@
 - Power analysis and sample sizes calculation, ideally based on pilot runs, are fundamental for designing a study protocol
 - Microbiome power analysis and sample size calculations are complex and time consuming
 
+
 ## Questions:
 
 - How many reads do I need to sequence?
 - How many samples I need to detect the expected effect?
+
 
 ## Objective:
 
@@ -20,12 +22,14 @@
 - Intuitive user interface
 - Logically structured data visualization
 
+
 ## Tasks:
 
 - Find the best calculation method (PERMANOVA, Dirichlet multinomial model, t-test, chi-square test)
 - Determine all the parameters relevant for the calculations
 - Script the code in Python3
-- Design an intuitive user interface 
+- Design an intuitive user interface
+
 
 ## Result:
 
