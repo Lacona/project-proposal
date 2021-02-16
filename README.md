@@ -1,5 +1,5 @@
 ### BIOL 7180 Project Proposal:
-# 16PS - power for 16SrRNA microbiome studies!
+# 16PS - power analysis for 16SrRNA microbiome studies!
 
 ## Background:
 
